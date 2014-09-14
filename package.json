@@ -26,11 +26,10 @@
   "dependencies": {
     "commander": "~2.0.0",
     "diff": "~1.0.7",
-    "escodegen": "~0.0.28",
-    "esprima": "~1.0.4",
     "fu": "0.1.x",
     "jshint": "~2.3.0",
-    "minimatch": "~0.2.12"
+    "minimatch": "~0.2.12",
+    "recast": "~0.7.2"
   },
   "devDependencies": {
     "testla": "0.1.x"
