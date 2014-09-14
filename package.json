@@ -30,7 +30,8 @@
     "esprima": "^1.2.2",
     "fu": "^0.1.x",
     "jshint": "^2.5.6",
-    "minimatch": "^1.0.0"
+    "minimatch": "^1.0.0",
+    "recast": "~0.7.2"
   },
   "devDependencies": {
     "testla": "^0.1.x"
