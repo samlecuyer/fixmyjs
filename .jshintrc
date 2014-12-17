@@ -1,8 +1,7 @@
 {
-  "asi": true,
   "boss": true,
   "curly": true,
-  "eqeqeq": false,
+  "eqeqeq": true,
   "eqnull": true,
   "esnext": true,
   "expr": true,
@@ -12,10 +11,14 @@
   "newcap": false,
   "noarg": true,
   "node": true,
-  "nonew": true,
+  "nonew": false,
   "plusplus": true,
   "quotmark": "single",
   "strict": false,
   "undef": true,
-  "unused": true
+  "unused": true,
+  "asi": false,
+  "commentspace": true,
+  "multivar": true,
+  "indent": 4
 }
